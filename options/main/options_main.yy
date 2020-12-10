@@ -1,0 +1,16 @@
+{
+  "option_gameguid": "b8f3bb8e-c4da-4f1b-81c6-3e442b47a78a",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 255,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": true,
+  "option_author": "necrobyte",
+  "option_lastchanged": "10 December 2020 19:50:58",
+  "option_spine_licence": true,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}
